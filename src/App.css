@@ -1,0 +1,7 @@
+.app-wrapper{
+  background-color: #263238 ;
+  display: grid;
+  grid-template-areas:
+  "h"
+  "c";
+}

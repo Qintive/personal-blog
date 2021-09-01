@@ -1,0 +1,52 @@
+.nameElementColom1{
+    position: absolute;
+    margin-left: 37px;
+    margin-block-start: 40px;
+}
+
+.nameElementColom2{
+    position: absolute;
+    margin-left: 562px;
+    margin-block-start: 40px;
+}
+
+.appWr{
+    grid-area: c;
+    opacity: 0;
+    transition: opacity 2.5s;
+    opacity: 1;
+    min-width: 50vh;
+    min-height: 100vh;
+    background-color: white;
+    overflow: hidden;
+}
+
+
+.BlockCenter{
+    position: absolute;
+    left: 50%;
+    top: 240px;
+    margin-left: -550px;
+    margin-top: 400px
+}
+
+.buttonColom1{
+    position: absolute;
+    border: medium none;
+    background-image: none; 
+    background: transparent;
+    float: left;
+    background-color: transparent;
+    width: 200px;
+}
+
+span :hover{
+  position: 'absolute';
+  margin-top: 20;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0.8;
+  
+}

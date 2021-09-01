@@ -1,0 +1,24 @@
+.one{
+background: white;
+grid-area: c;
+}
+
+.two{
+    background: white;
+    height: 50px;
+}
+
+.eas{
+    background: white;
+}
+
+.iframe{
+    text-align: center;
+    padding: 20px;
+
+}
+
+.textInTheLesson{
+    margin-right: 200px;
+    margin-left: 200px;
+}

@@ -1,0 +1,23 @@
+.activLinks{
+    top: 50%;
+    text-align: center;
+    margin: auto;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+button:hover{
+    background: #263238;
+    color: white;
+}
+
+.button{
+    border-radius: 5px;
+    height: 30px;
+    width: 190px;
+    border: #263238;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+    line-height: 1.75;
+}

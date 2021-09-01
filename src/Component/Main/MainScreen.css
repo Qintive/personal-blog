@@ -1,0 +1,33 @@
+.welcom{
+  color: white;
+  font-size: 3.75rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 300;
+  line-height: 1.2;
+  letter-spacing: -0.00833em;
+  top: 50%;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  width: fit-content;
+}
+
+.button{
+  text-align: center;
+}
+
+.mainScreen{
+  margin-top: 200px;
+}
+
+.app-wrapper-content{
+  grid-area: c;
+  opacity: 0;
+  transition: opacity 2.5s;
+  opacity: 1;
+  min-width: 50vh;
+  min-height: 100vh;
+  background-color: #263238;
+  overflow: hidden;
+}
+

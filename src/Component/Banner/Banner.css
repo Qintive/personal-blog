@@ -1,0 +1,18 @@
+.banner{
+    position: absolute;
+    left: 50%;
+    top: 370px;
+   -webkit-transform: translate(-50%, -50%);
+   -moz-transform: translate(-50%, -50%);
+   -ms-transform: translate(-50%, -50%);
+   -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 3px;
+}
+
+.element{
+  position: fixed;
+    z-index: 500;
+    color: blueviolet;
+}
+
